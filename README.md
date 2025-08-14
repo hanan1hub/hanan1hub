@@ -19,9 +19,11 @@
 
 <!-- Linkedin -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/hanan-majeed-393418314/" target="_blank">
+  <a href="https://www.linkedin.com/in/hanan-majeed-393418314/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+    <span style="vertical-align: middle; font-size: 16px;">hanan-majeed</span>
   </a>
+
 </p>
 
 ---
