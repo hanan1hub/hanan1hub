@@ -17,10 +17,10 @@
   </a>
 </p>
 
-<!-- Twitter -->
+<!-- Linkedin -->
 <p align="center">
-  <a href="https://twitter.com/hananmajeed9" target="blank">
-    <img src="https://img.shields.io/twitter/follow/hananmajeed9?logo=twitter&style=for-the-badge" alt="hananmajeed9" />
+  <a href="https://www.linkedin.com/in/hanan-majeed-393418314/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
 </p>
 
@@ -38,7 +38,7 @@
 
 ### 🌐 Connect With Me
 <p align="left">
-  <a href="[https://www.linkedin.com/in/hanan-majeed/](https://www.linkedin.com/in/hanan-majeed-393418314/)" target="_blank">
+  <a href="https://www.linkedin.com/in/hanan-majeed-393418314/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://twitter.com/hananmajeed9" target="_blank">
