@@ -74,7 +74,3 @@
 
 ---
 
-### 📷 Data Mining Vibes  
-<p align="center">
-  <img src="https://media.istockphoto.com/id/1296402108/vector/data-mining-and-analysis.jpg?s=612x612&w=0&k=20&c=Qea_2-dM8uF5QoxKwZuUAtj6MTlFbnDwAg27v9b04y8=" alt="Data Mining" width="600"/>
-</p>
