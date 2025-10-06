@@ -74,7 +74,10 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hanan1hub&show_icons=true&locale=en&theme=radical" />
 </p>
-
+<!-- This is a comment that will be hidden in the rendered Markdown. -->
+<!--<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hanan1hub&theme=radical" />
+</p> -->
 
 ---
 
